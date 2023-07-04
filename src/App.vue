@@ -15,7 +15,7 @@
 </script>
 
 <template>
-  <div class="xl:w-[500px] lg:w-[400px] md:w-[300px] mx-auto mt-20">
+  <div class="xl:w-[500px] lg:w-[400px] md:w-[300px] mx-auto mt-20 px-5">
     <h1 class="text-center text-3xl font-semibold bg-[#F4F2FF] py-3 rounded-3xl">🤸🏻‍♀️ Beshy App 🤸🏻‍♀️</h1>
     <textarea v-model="beshyText" type="text" class="w-full overflow-hidden rounded-xl border-2 mt-10 border-[#6366FA] p-4 focus:outline-[#6366FA]" rows="4"></textarea>
     <div class="flex justify-end my-5">
